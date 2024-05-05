@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+}
+.button{
+     background-color: blue;
+     height: 50px;
+     width: 50px;
+}
+.row{
+    height: inherit;
+    width: auto;
+    justify-content: center;
+    text-align: center;
+}
+#input{
+    height: 30px;
+    width: 200px;
+   
+}
+.input{
+    text-align: center;
+    text-align: center;
+
+}
